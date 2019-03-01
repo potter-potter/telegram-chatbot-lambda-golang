@@ -1,2 +1,2 @@
 # telegram-chatbot-lambda-golang
-A simple Telegram built in Golang using AWS Lambda.
+A simple Telegram bot built in Golang using AWS Lambda.
